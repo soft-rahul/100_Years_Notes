@@ -1,0 +1,12 @@
+CDN - Content Delivery Network
+
+CDN was invented to shorten the physical distance between
+the website user and the website’s hosting server.
+
+Key Parts of CDN:
+    * Origin Server (Main Server)
+    * CDN Server (Edge Server) or (POP Server) 
+
+Delivery Techniques:
+    * DNS (Domain Name System)
+    * ANYCAST (Anycast Address) Each CDN server has a Same IP address.
